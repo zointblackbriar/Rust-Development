@@ -1,0 +1,1 @@
+rustc error_handling.rs && ./error_handling
